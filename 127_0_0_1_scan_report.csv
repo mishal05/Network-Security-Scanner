@@ -1,0 +1,6 @@
+Host,OS,Port,State,Service,Version,Vulnerabilities
+127.0.0.1,Microsoft Windows 10 1607 - 11 23H2,135,open,msrpc,,No known vulnerabilities
+127.0.0.1,Microsoft Windows 10 1607 - 11 23H2,445,open,microsoft-ds,,No known vulnerabilities
+127.0.0.1,Microsoft Windows 10 1607 - 11 23H2,3306,open,mysql,8.0.39,No known vulnerabilities
+127.0.0.1,Microsoft Windows 10 1607 - 11 23H2,5432,open,postgresql,9.6.0 or later,No known vulnerabilities
+127.0.0.1,Microsoft Windows 10 1607 - 11 23H2,7070,open,realserver,,No known vulnerabilities
