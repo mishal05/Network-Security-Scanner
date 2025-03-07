@@ -1,4 +1,4 @@
-Network Security Scanner
+#Network Security Scanner
 A Python-based network security scanner using Nmap for reconnaissance and basic vulnerability assessment.
 
 Features
